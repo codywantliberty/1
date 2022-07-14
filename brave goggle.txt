@@ -1,0 +1,16 @@
+! name: Cody First Goggle
+! description: Discard Unwanted Websites
+! public: true
+! author: ME
+! avatar: ME
+
+$discard,site=nytimes.com
+$discard,site=washingtonpost.com
+$discard,site=news.yahoo.com
+$discard,site=yelp.com
+$discard,site=mayoclinic.org
+$discard,site=cdc.gov
+$discard,site=webmd.com
+$discard,site=fda.gov
+$discard,site=healthline.com
+$discard,site=npr.org
