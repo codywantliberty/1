@@ -1,5 +1,5 @@
 ! name: Cody First Goggle
-! description: Discard Unwanted Websites
+! description: Unwanted Websites
 ! public: true
 ! author: ME
 ! avatar: ME
